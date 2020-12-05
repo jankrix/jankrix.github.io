@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call me Erick</title>
+    <link>https://jankrix.github.io/</link>
+    <description>Recent content on Call me Erick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 12:32:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://jankrix.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ballad of Electric Vehicle</title>
+      <link>https://jankrix.github.io/posts/electric-vehicle/</link>
+      <pubDate>Sun, 09 Sep 2018 12:32:12 -0500</pubDate>
+      
+      <guid>https://jankrix.github.io/posts/electric-vehicle/</guid>
+      <description>In past couple of weeks, I have immensely interested in electric vehicle. Partially because the price increase of Fossil fuel as well as a curiosity why electric vehicle is adopted very slowly anywhere in this word. At first I have these 2 conclusion:
+ Non - Renewable Energy Business Disadvantages Huge Investment due to low demand  </description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://jankrix.github.io/resume/</link>
+      <pubDate>Wed, 01 Aug 2018 15:01:32 +0700</pubDate>
+      
+      <guid>https://jankrix.github.io/resume/</guid>
+      <description>ERICK LIEMARGA Education  2009-2012 MInfTech, Information Technology UTS (University of Technology, Sydney) Australia
+\ 2004-2008 S.Kom, Information Technology SGU (Swiss German University) Indonesia Thesis: ATN package data network implementation
+\ 2004-2008 Dipl. Ing.-, Elektrotechnik Fachhochschule Südwestfalen German  Experience  CIAYO Corp.\ Assistant Manager of Product Development Jan 2016 - Present\ Jakarta
+\ Head of User Experience Dec 2015 - Present\ Jakarta\ Manage tasks, prioritize features, research and analysis, design solutions.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jankrix.github.io/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://jankrix.github.io/about/</guid>
+      <description>Hello, I&#39;m Erick. classified as generalist species.
+I am currently working as CTO of CIAYO Corp. Previously as UX head, Assistant to Product Development Manager. I am also one of the Co Founder of PT Dragon Capital Centre, the company behind CIAYO Corp.
+The site This site is build using [Hugo] (https://gohugo.io), and [Call me Sam] (https://themes.gohugo.io/hugo-theme-sam/) theme. This site is designed to be fast, thus static content without bulky features is the key feature of this site.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Call me Erick</title>
+    <link>https://jankrix.github.io/posts/</link>
+    <description>Recent content in Posts on Call me Erick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://jankrix.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ballad of Electric Vehicle</title>
+      <link>https://jankrix.github.io/posts/electric-vehicle/</link>
+      <pubDate>Sun, 09 Sep 2018 12:32:12 -0500</pubDate>
+      
+      <guid>https://jankrix.github.io/posts/electric-vehicle/</guid>
+      <description>In past couple of weeks, I have immensely interested in electric vehicle. Partially because the price increase of Fossil fuel as well as a curiosity why electric vehicle is adopted very slowly anywhere in this word. At first I have these 2 conclusion:
+ Non - Renewable Energy Business Disadvantages Huge Investment due to low demand  </description>
+    </item>
+    
+  </channel>
+</rss>

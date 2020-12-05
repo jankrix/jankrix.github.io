@@ -1,25 +1,24 @@
-#!/bin/sh
+#!/bin/bash
 
-# If a command fails then the deploy stops
-set -e
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+# Genterate file statis
+hugo -t sam # if using a theme, replace by `hugo -t <yourtheme>`
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-
-# Go To Public folder
+# pindah ke direktoru publik
 cd public
+# tambahkan perubahan ke Git
+git add -A
 
-# Add changes to git.
-git add .
-
-# Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
+# Buat sebuah commit baru
+msg="rebuilding site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
 fi
 git commit -m "$msg"
 
-# Push source and build repos.
+# Push atau puload ke Github
 git push origin master
+
+# Balik ke direktori sebelumnya
+cd ..
