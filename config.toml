@@ -1,0 +1,40 @@
+baseurl                  = "https://jankrix.github.io/"               # Your domain name. Must end with "/"
+languageCode             = "en-us"
+title                    = "Call me Erick"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                     
+pygmentsCodefences       = true
+# googleAnalytics        = "xxx"             # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "/favicon.ico"
+    homepage             = "Back to home?"                       
+    galleryFolder        = "images/"                     
+    clickablePhotos      = true                          
+    smallPreviewImages   = true                          
+                                                        
+    smallImagesSubfolder = "small/"                      
+                                                         # For each image the small version has to have the same filename as the big version.
+    footerText           = "Call me Erick."
+
+# Metadata
+    description          = "Personal site of Erick Liemarga."            # Max 160 characters show in search results
+    #primaryImage         = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+
+[[params.intro]]
+    text = "Hi, I'm Erick"
+
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "hi, i'm erick"
+
+[[params.mainMenu]]
+    link = "/resume"
+    text = "this is my cv"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = " and this is my written thought"
