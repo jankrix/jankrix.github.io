@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>story on Call me Erick</title>
+    <link>https://jankrix.github.io/tags/story/</link>
+    <description>Recent content in story on Call me Erick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Dec 2020 21:38:58 +0700</lastBuildDate>
+    
+	<atom:link href="https://jankrix.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Mentoring Style</title>
+      <link>https://jankrix.github.io/posts/my-mentoring-style/</link>
+      <pubDate>Sat, 05 Dec 2020 21:38:58 +0700</pubDate>
+      
+      <guid>https://jankrix.github.io/posts/my-mentoring-style/</guid>
+      <description>test article</description>
+    </item>
+    
+  </channel>
+</rss>
